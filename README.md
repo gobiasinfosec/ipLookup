@@ -1,7 +1,7 @@
 # ipLookup
 Python3 script used to get ip address info and check addresses against common blacklists
 
-##Usage
+## Usage
 Run script with default settings
 python3 <path_to_script> -i <input file> -o <output file> 
 
